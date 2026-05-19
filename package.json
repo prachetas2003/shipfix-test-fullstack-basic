@@ -1,0 +1,6 @@
+{
+  "name": "shipfix-test-fullstack-basic",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Manual ShipFix full-stack deploy test repo (Vite + Express, no database env)."
+}
